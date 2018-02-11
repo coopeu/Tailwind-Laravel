@@ -1,0 +1,53 @@
+div.bg-orange { 
+background-color:var(--orange22);	
+color:var(--orange03); 
+border-top: 2px solid var(--orange02);
+border-right: 3px solid var(--orange24);
+border-bottom: 3px solid var(--orange24);
+border-left: 2px solid var(--orange04);
+}
+div.bg-navy { 
+background-color:var(--navy22); 
+color:var(--navy03); 
+border-top: 2px solid var(--navy02);
+border-right: 3px solid var(--navy24);
+border-bottom: 3px solid var(--navy24);
+border-left: 2px solid var(--navy04);
+}
+div.bg-pink { 
+background-color:var(--pink22); 
+color:var(--pink03); 
+border-top: 2px solid var(--pink02);
+border-right: 3px solid var(--pink24);
+border-bottom: 3px solid var(--pink24);
+border-left: 2px solid var(--pink04);
+}
+div.bg-green { 
+background-color:var(--green22); 
+color:var(--green03); 
+border-top: 2px solid var(--green02);
+border-right: 3px solid var(--green24);
+border-bottom: 3px solid var(--green24);
+border-left: 2px solid var(--green04);
+}
+div.bg-purple { 
+background-color:var(--purple22); 
+color:var(--purple03); 
+border-top: 2px solid var(--purple02);
+border-right: 3px solid var(--purple24);
+border-bottom: 3px solid var(--purple24);
+border-left: 2px solid var(--purple04);
+}
+div.bg-yellow { 
+background-color:var(--yellow22); 
+color:var(--yellow03); 
+border-top: 2px solid var(--yellow02);
+border-right: 3px solid var(--yellow24);
+border-bottom: 3px solid var(--yellow24);
+border-left: 2px solid var(--yellow04);
+}
+header.bg-teal-nav { 
+background-color:var(--teal22); 
+color:var(--teal03); 
+border-bottom: 3px solid var(--teal06);
+}
